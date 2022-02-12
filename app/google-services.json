@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967966063396",
+    "project_id": "yifarm-43b6a",
+    "storage_bucket": "yifarm-43b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967966063396:android:222d97ee05cfc78ac951b1",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967966063396-ngsdj12sk9vhnj78fd6e4imcvrc4pioi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiyTuWh_KTkUCUWuBd0WRGVvOR1MxGZZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967966063396-ngsdj12sk9vhnj78fd6e4imcvrc4pioi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

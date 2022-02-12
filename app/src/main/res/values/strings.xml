@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Yifarm</string>
+    <string name="sign_in">SignIn</string>
+    <string name="sign_up">signup</string>
+    <string name="Email">email</string>
+    <string name="Name">Name</string>
+    <string name="Add_Image">Add image</string>
+    <string name="Create_New_Account">Create new Account</string>
+    <string name="Password">Password</string>
+    <string name="Confirm_Password">Confirm Password</string>
+    <string name="Welcome_Back">Welcome Back</string>
+    <string name="Login_to_continue">Login</string>
+    <string name="SignIn">SignIn</string>
+    <string name="SignUp">SignUp</string>
+    <string name="add_image">Add Image</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+
+
+</resources>
