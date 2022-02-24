@@ -17,6 +17,5 @@ public class BaseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         PreferenceManager preferenceManager = new PreferenceManager(getApplicationContext());
 //        FirebaseFirestore database = new FirebaseFirestore.getInstance();
-
-    }
+}
 }
